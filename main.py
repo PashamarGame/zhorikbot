@@ -18,7 +18,7 @@ from collections import Counter
 
 # Конфигурация
 API_TOKEN = '8252338928:AAGNGNj34g1sp4ik6pgY0jQl9m_h7LbuM3g'
-MAIN_ADMIN = 'zhorik200'  # Основной админ для первого входа
+MAIN_ADMIN = 'Ishy_svoi_nik_rob_pasha'  # Основной админ для первого входа
 DROP_COOLDOWN = 301  # Задержка 5 минут (300 секунд)
 bot = telebot.TeleBot(API_TOKEN)
 
